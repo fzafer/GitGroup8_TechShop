@@ -3,4 +3,6 @@ public class SmartWatch extends techEquipments{
         super(brand, model, color, price, expirationYear, isSecondHand);
     }
     //assigned to Serkan
+
+    // project was tested
 }
