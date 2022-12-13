@@ -5,3 +5,7 @@ public class Notebook extends techEquipments{
         super(brand, model, color, price, expirationYear, isSecondHand);
     } //assigned to Veli
 }
+/*
+My project
+created veli branch
+ */
