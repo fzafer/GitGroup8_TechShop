@@ -5,3 +5,6 @@ public class Notebook extends techEquipments{
         super(brand, model, color, price, expirationYear, isSecondHand);
     }
 }
+/*
+My project
+ */
