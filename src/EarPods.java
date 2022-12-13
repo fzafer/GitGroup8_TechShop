@@ -3,4 +3,7 @@ public class EarPods extends techEquipments{
         super(brand, model, color, price, expirationYear, isSecondHand);
     }
     //assigned to Vahap from Zafer
+    public void listen(String music){
+        System.out.println("he is listening "+music);
+    }
 }
