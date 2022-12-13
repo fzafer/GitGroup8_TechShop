@@ -3,5 +3,5 @@ public class Television extends techEquipments{
         super(brand, model, color, price, expirationYear, isSecondHand);
     }
 
-    //assigned to Mesut
+    //assigned to Mesut and mesut do nothing
 }
