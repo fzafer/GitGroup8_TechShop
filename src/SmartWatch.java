@@ -5,4 +5,6 @@ public class SmartWatch extends techEquipments{
     //assigned to Serkan
 
     // project was tested
+
+    // test
 }
