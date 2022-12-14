@@ -3,5 +3,10 @@ public class Tablet extends techEquipments{
         super(brand, model, color, price, expirationYear, isSecondHand);
     } //dest busi arzusu ile ölürsem dostlar
     //Kuze eyleyin sunun anınla yare su
+    /*
+     haki payine yetem der akar gunler muttasıl
+    basuını tastan tasa vururu avavare su
+     */
+
 
 }
