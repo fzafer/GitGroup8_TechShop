@@ -4,6 +4,6 @@ public class EarPods extends techEquipments{
     }
     //assigned to Vahap from Zafer
     public void listen(String music){
-        System.out.println("he is listening "+music);
+        System.out.println("he is listening "+music+" with his "+getBrand()+" earpods");
     }
 }
