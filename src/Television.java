@@ -3,5 +3,7 @@ public class Television extends techEquipments{
         super(brand, model, color, price, expirationYear, isSecondHand);
     }
 
-    //assigned to Mesut and mesut do nothing hh
+    public void reachToSatallite (){
+        System.out.println(getBrand()+ " can reach the satellite easily.");
+    }
 }
