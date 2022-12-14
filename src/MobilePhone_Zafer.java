@@ -1,5 +1,5 @@
-public class MobilePhone extends techEquipments{
-    public MobilePhone(String brand, String model, String color, double price, int expirationYear, boolean isSecondHand) {
+public class MobilePhone_Zafer extends techEquipments{
+    public MobilePhone_Zafer(String brand, String model, String color, double price, int expirationYear, boolean isSecondHand) {
         super(brand, model, color, price, expirationYear, isSecondHand);
 
     }
