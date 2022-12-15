@@ -1,4 +1,4 @@
-public class TechnoShop {
+public class TechnoShop_OBJECTS {
 
     public static void main(String[] args) {
 
