@@ -6,4 +6,7 @@ public class EarPods_Vahap extends TechEquipments_PARENT {
     public void listen(String music){
         System.out.println("he is listening "+music+" with his "+getBrand()+" earpods");
     }
+    public void buy(){
+        System.out.println("You can buy "+getBrand()+" earpods $"+getPrice());
+    }
 }
