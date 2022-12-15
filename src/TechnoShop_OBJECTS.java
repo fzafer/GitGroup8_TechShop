@@ -7,5 +7,8 @@ public class TechnoShop_OBJECTS {
         ready to be sold
 
          */
+
+        Television_Mesut televisionMesut1 = new Television_Mesut("Arçelik","AC101", "Black",10000,2020,false );
+
     }
 }
