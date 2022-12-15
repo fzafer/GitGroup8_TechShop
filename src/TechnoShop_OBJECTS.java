@@ -9,6 +9,10 @@ public class TechnoShop_OBJECTS {
          */
 
         Television_Mesut televisionMesut1 = new Television_Mesut("Arçelik","AC101", "Black",10000,2020,false );
-Tablet_Mustafa tablet1=new Tablet_Mustafa("Samsun","Note7","black",2300,2023,false);
+        Tablet_Mustafa tablet1=new Tablet_Mustafa("Samsun","Note7","black",2300,2023,false);
+        EarPods_Vahap earPods1=new EarPods_Vahap("Samsung","w101","white",350,2021,false);
+
+
+
     }
 }
