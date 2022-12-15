@@ -1,4 +1,4 @@
-public class techEquipments {
+public class TechEquipments_PARENT {
 
     private String brand;
     private String model;
@@ -8,7 +8,7 @@ public class techEquipments {
 
     private boolean isSecondHand = false;
 
-    public techEquipments(String brand, String model, String color, double price, int expirationYear, boolean isSecondHand) {
+    public TechEquipments_PARENT(String brand, String model, String color, double price, int expirationYear, boolean isSecondHand) {
         this.brand = brand;
         this.model = model;
         this.color = color;

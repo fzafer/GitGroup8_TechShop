@@ -1,4 +1,4 @@
-public class MobilePhone_Zafer extends techEquipments{
+public class MobilePhone_Zafer extends TechEquipments_PARENT {
     public MobilePhone_Zafer(String brand, String model, String color, double price, int expirationYear, boolean isSecondHand) {
         super(brand, model, color, price, expirationYear, isSecondHand);
 

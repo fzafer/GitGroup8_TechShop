@@ -1,4 +1,4 @@
-public class Notebook_Veli extends techEquipments{
+public class Notebook_Veli extends TechEquipments_PARENT {
 
 
     public Notebook_Veli(String brand, String model, String color, double price, int expirationYear, boolean isSecondHand) {
